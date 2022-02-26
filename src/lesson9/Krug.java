@@ -19,7 +19,7 @@ public class Krug {
     }
 
     public double perimetr(){
-        return 2 * Math.PI * radius;
+        return 2 * Math.PI * radius + 2;
     }
 
 
